@@ -11,4 +11,3 @@ Welcome to my first repository! 🚀
 I am currently working on C language projects in my local environment.
 
 ---
-*Created with the help of Antigravity AI.*
